@@ -23,18 +23,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./src/screenshots/chrome-capture-2023-11-29.png)
-![](./src/screenshots/chrome-capture-2023-11-29(1).png)
-![](./src/screenshots/chrome-capture-2023-11-29(2).png)
-
+![](./src/screenshots/mobile.png)
+![](./src/screenshots/menumobile.png)
+![](./src/screenshots/desktop.png)
+ 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e/hub?share=true)
+- Live Site URL: [Project Tracking in Vercel](https://project-tracking-vert.vercel.app)
 
 ## My process
 
-## Built with
+#   # Built with
 
 - CSS custom properties
 - Flexbox
